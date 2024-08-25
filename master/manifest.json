@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Hello",
+    "OrganizationName": "School",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Eurecka3/classisland-mgmt-cfg/master/classplans.json",
         "Version": 1
