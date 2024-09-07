@@ -3,14 +3,14 @@
     "OrganizationName": "School",
     "ClassPlanSource": {
         "Value": "https://raw.gitmirror.com/Eurecka3/classisland-mgmt-cfg/master/all.json",
-        "Version": 2
+        "Version": 3
     },
     "TimeLayoutSource": {
         "Value": "https://raw.gitmirror.com/Eurecka3/classisland-mgmt-cfg/master/all.json",
-        "Version": 2
+        "Version": 3
     },
     "SubjectsSource": {
         "Value": "https://raw.gitmirror.com/Eurecka3/classisland-mgmt-cfg/master/all.json",
-        "Version": 2
+        "Version": 3
     }
 }
